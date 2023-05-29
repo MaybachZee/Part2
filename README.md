@@ -19,7 +19,7 @@ These instructions guide you through using the Recipe Application to manage and 
 
 [B. Github Link:]
 
-
+https://github.com/MaybachZee/Part1.git
 
 [C. Brief Description on what i changed:]
 
